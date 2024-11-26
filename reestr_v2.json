@@ -1,0 +1,380 @@
+[
+    {
+        "name": "ArangoDB latest version",
+        "ring": "Assess",
+        "quadrant": "Tools",
+        "isNew": "TRUE",
+        "description": "\"ArangoDB поддерживает три модели данных: графовую, документную и модель «ключ-значение» Cвободная мультимодельная система управления базами данных. Работа с базой данных осуществляется при помощи SQL-подобного языка запросов AQL\""
+    },
+    {
+        "name": "Apache HBASE latest version",
+        "ring": "Assess",
+        "quadrant": "Tools",
+        "isNew": "TRUE",
+        "description": "СУБД класса NoSQL с открытым исходным кодом, проект экосистемы Hadoop. Написана на Java; относится к категории «семейство столбцов», многие технические решения переняты из Google BigTable"
+    },
+    {
+        "name": "Apache Hive latest version",
+        "ring": "Assess",
+        "quadrant": "Tools",
+        "isNew": "TRUE",
+        "description": "Система управления базами данных на основе платформы Hadoop с SQL-подобным языком запросов, позволяет выполнять запросы, агрегировать и анализировать данные; компонент экосистемы Hadoop."
+    },
+    {
+        "name": "ClickHouse latest version",
+        "ring": "Assess",
+        "quadrant": "Tools",
+        "isNew": "TRUE",
+        "description": "Колоночная (столбцовая) аналитическая СУБД с открытым кодом, позволяющая выполнять аналитические запросы в режиме реального времени на структурированных больших данных, разрабатываемая компанией Яндекс"
+    },
+    {
+        "name": "Firebird 4",
+        "ring": "Assess",
+        "quadrant": "Tools",
+        "isNew": "TRUE",
+        "description": "Firebird — свободная кроссплатформенная реляционная система управления базами данных, работающая на macOS, Linux, Microsoft Windows и некоторых Unix-платформах"
+    },
+    {
+        "name": "LevelDB 1.18",
+        "ring": "Assess",
+        "quadrant": "Tools",
+        "isNew": "TRUE",
+        "description": "Хранилище ключей и значений с открытым исходным кодом на диске, написанное сотрудниками Google."
+    },
+    {
+        "name": "MongoDB Enterprise Server latest version",
+        "ring": "Assess",
+        "quadrant": "Tools",
+        "isNew": "TRUE",
+        "description": "Документоориентированная система управления базами данных, не требующая описания схемы таблиц. Считается одним из классических примеров NoSQL-систем, использует JSON-подобные документы и схему базы данных. Написана на языке C++"
+    },
+    {
+        "name": "Postgres Pro Сertified latest version",
+        "ring": "Assess",
+        "quadrant": "Tools",
+        "isNew": "TRUE",
+        "description": "Российская коммерческая СУБД, разработанная компанией Postgres Professional с использованием свободно-распространяемой СУБД PostgreSQL, значительно переработанная для соответствия требованиям корпоративных заказчиков. Postgres Pro входит в реестр ПО РФ."
+    },
+    {
+        "name": "PostgreSQL latest version",
+        "ring": "Assess",
+        "quadrant": "Tools",
+        "isNew": "TRUE",
+        "description": "Свободная объектно-реляционная система управления базами данных. Существует в реализациях для множества UNIX-подобных платформ, включая AIX, различные BSD-системы, HP-UX, IRIX, Linux, macOS, Solaris\/OpenSolaris, Tru64, QNX, а также для Microsoft Windows."
+    },
+    {
+        "name": "Redis latest version",
+        "ring": "Assess",
+        "quadrant": "Tools",
+        "isNew": "TRUE",
+        "description": "Резидентная система управления базами данных класса NoSQL с открытым исходным кодом, работающая со структурами данных типа «ключ — значение». Используется как для баз данных, так и для реализации кэшей, брокеров сообщений. Ориентирована на достижение макс"
+    },
+    {
+        "name": "Appium v2023",
+        "ring": "Assess",
+        "quadrant": "Techniques",
+        "isNew": "TRUE",
+        "description": "Свободно распространяемый фреймворк с открытым исходным кодом, предназначенный для тестирования пользовательского интерфейса мобильных приложений. Он помогает тестировать нативные, гибридные и веб-приложения и проводить автоматизированное тестирование."
+    },
+    {
+        "name": "Argo CD latest version",
+        "ring": "Assess",
+        "quadrant": "Techniques",
+        "isNew": "TRUE",
+        "description": "Декларативный инструмент для GitOps непрерывной доставки в Kubernetes. GitOps — это способ реализации непрерывного развертывания (continuous deployment) облачных приложений."
+    },
+    {
+        "name": "Blitz Identity Provider latest version",
+        "ring": "Assess",
+        "quadrant": "Techniques",
+        "isNew": "TRUE",
+        "description": "Управление входом пользователей в приложения. Позволяет оснастить веб-сайт и мобильные приложения компании функциями защиты учетных записей пользователей, построенных с учетом лучших практик безопасности."
+    },
+    {
+        "name": "Docker latest version",
+        "ring": "Assess",
+        "quadrant": "Techniques",
+        "isNew": "TRUE",
+        "description": "Программное обеспечение для автоматизации развёртывания и управления приложениями в средах с поддержкой контейнеризации, контейнеризатор приложений. Позволяет «упаковать» приложение со всем его окружением и зависимостями в контейнер."
+    },
+    {
+        "name": "Jfrog Xray latest version",
+        "ring": "Assess",
+        "quadrant": "Techniques",
+        "isNew": "TRUE",
+        "description": "Решение для обеспечения безопасности, ориентированное на DevOps"
+    },
+    {
+        "name": "MS Azure DevOps Server (Azure Artifacts) latest version",
+        "ring": "Assess",
+        "quadrant": "Techniques",
+        "isNew": "TRUE",
+        "description": "Функциональный блок MS Azure DevOps для создания, размещения и совместного использования пакетов с командой, а также добавления артефактов в конвейеры CI\/CD"
+    },
+    {
+        "name": "MS Azure DevOps Server (Azure Boards) latest version",
+        "ring": "Assess",
+        "quadrant": "Techniques",
+        "isNew": "TRUE",
+        "description": "Функциональный блок MS Azure DevOps для быстрого предоставления решений своим пользователям, используя надежные гибкие инструменты для планирования, отслеживания и обсуждения работы со своими командами."
+    },
+    {
+        "name": "MS Azure DevOps Server (Azure Pipelines) latest version",
+        "ring": "Assess",
+        "quadrant": "Techniques",
+        "isNew": "TRUE",
+        "description": "Функциональный блок MS Azure DevOps для создания, тестирования и развертывания решений с помощью конвейера CI\/CD, который поддерживает любой язык, платформу и облако."
+    },
+    {
+        "name": "MS Azure DevOps Server (Azure Repos) latest version",
+        "ring": "Assess",
+        "quadrant": "Techniques",
+        "isNew": "TRUE",
+        "description": "Функциональный блок MS Azure DevOps для быстрого хранения и управления версиями исходного кода решений в частных облачных репозиториях Git в периметре Компании."
+    },
+    {
+        "name": "MS Azure DevOps Server (Azure Test Plans) latest version",
+        "ring": "Assess",
+        "quadrant": "Techniques",
+        "isNew": "TRUE",
+        "description": "Функциональный блок MS Azure DevOps для планирования, выполнения и отслеживания тестов на основе скриптов, регистрирования дефектов, требующих вмешательства, и получения данных сквозной трассировки."
+    },
+    {
+        "name": "Nova latest version",
+        "ring": "Assess",
+        "quadrant": "Techniques",
+        "isNew": "TRUE",
+        "description": "NOVA container platform является отечественным решением, разработанным компанией «Orion Soft» на базе Open Sourceплатформы K8s. На текущий момент NOVA container platform позиционируется как решениереализующее до 95% функционала RedHatOpenShift."
+    },
+    {
+        "name": "Selenium 3.x",
+        "ring": "Assess",
+        "quadrant": "Techniques",
+        "isNew": "TRUE",
+        "description": "Инструмент для автоматизации действий веб-браузера. В большинстве случаев используется для тестирования Web-приложений"
+    },
+    {
+        "name": "SmartBear TestExecute latest version",
+        "ring": "Assess",
+        "quadrant": "Techniques",
+        "isNew": "TRUE",
+        "description": "обеспечивает легкий тестовый прогон для тестов TestComplete. Решение позволяет выполнять тесты TestComplete без необходимости устанавливать TestComplete на компьютер. TestExecute может использоваться на удаленных компьютерах, VM и облачных компьютерах."
+    },
+    {
+        "name": ".NET 6",
+        "ring": "Assess",
+        "quadrant": "Languages & Frameworks",
+        "isNew": "TRUE",
+        "description": "Модульная платформа для разработки программного обеспечения с открытым исходным кодом. Совместима с операционными системами Windows, Linux и macOS. Поддерживает следующие языки программирования: C#, F#, Visual Basic. .NET is a free, cross-platform, open"
+    },
+    {
+        "name": ".NET 8 LTS",
+        "ring": "Assess",
+        "quadrant": "Languages & Frameworks",
+        "isNew": "TRUE",
+        "description": "Модульная платформа для разработки программного обеспечения с открытым исходным кодом. Совместима с операционными системами Windows, Linux и macOS. Поддерживает следующие языки программирования: C#, F#, Visual Basic. .NET is a free, cross-platform, open"
+    },
+    {
+        "name": "Angular 13",
+        "ring": "Assess",
+        "quadrant": "Languages & Frameworks",
+        "isNew": "TRUE",
+        "description": "Открытая и свободная платформа для разработки веб-приложений, написанная на языке TypeScript, разрабатываемая командой из компании Google, а также сообществом разработчиков из различных компаний."
+    },
+    {
+        "name": "AQL latest version",
+        "ring": "Assess",
+        "quadrant": "Languages & Frameworks",
+        "isNew": "TRUE",
+        "description": "SQL-подобный язык, использующийся в работе с СУБД ArangoDB"
+    },
+    {
+        "name": "CSS latest version",
+        "ring": "Assess",
+        "quadrant": "Languages & Frameworks",
+        "isNew": "TRUE",
+        "description": "формальный язык описания внешнего вида документа (веб-страницы), написанного с использованием языка разметки (чаще всего HTML или XHTML). Также может применяться к любым XML-документам, например, к SVG или XUL."
+    },
+    {
+        "name": "Go\/Golang latest version",
+        "ring": "Assess",
+        "quadrant": "Languages & Frameworks",
+        "isNew": "TRUE",
+        "description": "Компилируемый многопоточный язык программирования, разработанный внутри компании Google"
+    },
+    {
+        "name": "Groovy latest version",
+        "ring": "Assess",
+        "quadrant": "Languages & Frameworks",
+        "isNew": "TRUE",
+        "description": "Apache Groovy - Объектно-ориентированный язык программирования, разработанный для платформы Java как дополнение к языку Java с возможностями Python, Ruby и Smalltalk. Groovy использует Java-подобный синтаксис с динамической компиляцией в JVM байт-код и на"
+    },
+    {
+        "name": "HTML latest version",
+        "ring": "Assess",
+        "quadrant": "Languages & Frameworks",
+        "isNew": "TRUE",
+        "description": "Стандартизированный язык гипертекстовой разметки документов для просмотра веб-страниц в браузере."
+    },
+    {
+        "name": "iNGL latest version",
+        "ring": "Assess",
+        "quadrant": "Languages & Frameworks",
+        "isNew": "TRUE",
+        "description": "Собственная разработка ИГС. Узкоспециализированный макроязык, используемый для контрольных соотношений в бесконвертерном решении для подготовки официальной отчетности СПАО «Ингосстрах» в формате XBRL"
+    },
+    {
+        "name": "Java 17",
+        "ring": "Assess",
+        "quadrant": "Languages & Frameworks",
+        "isNew": "TRUE",
+        "description": "Cтрого типизированный объектно-ориентированный язык программирования общего назначения, разработанный компанией Sun Microsystems (в последующем приобретённой компанией Oracle). Разработка ведётся сообществом, организованным через Java Community Process; я"
+    },
+    {
+        "name": "Java 21",
+        "ring": "Assess",
+        "quadrant": "Languages & Frameworks",
+        "isNew": "TRUE",
+        "description": "Cтрого типизированный объектно-ориентированный язык программирования общего назначения, разработанный компанией Sun Microsystems (в последующем приобретённой компанией Oracle). Разработка ведётся сообществом, организованным через Java Community Process; я"
+    },
+    {
+        "name": "JavaScript latest version",
+        "ring": "Assess",
+        "quadrant": "Languages & Frameworks",
+        "isNew": "TRUE",
+        "description": "Мультипарадигменный язык программирования. Поддерживает объектно-ориентированный, императивный и функциональный стили. JavaScript обычно используется как встраиваемый язык для программного доступа к объектам приложений. Наиболее широкое применение находи"
+    },
+    {
+        "name": "Kotlin latest version",
+        "ring": "Assess",
+        "quadrant": "Languages & Frameworks",
+        "isNew": "TRUE",
+        "description": "Статически типизированный, объектно-ориентированный язык программирования, работающий поверх Java Virtual Machine и разрабатываемый компанией JetBrains. Также компилируется в JavaScript и в исполняемый код ряда платформ через инфраструктуру LLVM."
+    },
+    {
+        "name": "Node.js 18 LTS",
+        "ring": "Assess",
+        "quadrant": "Languages & Frameworks",
+        "isNew": "TRUE",
+        "description": "Node.js® is an open-source, cross-platform JavaScript runtime environment. Node.js применяется преимущественно на сервере, выполняя роль веб-сервера, но есть возможность разрабатывать на Node.js и десктопные оконные приложения (при помощи NW.js, AppJS или"
+    },
+    {
+        "name": "PL\/pgSQL latest version",
+        "ring": "Assess",
+        "quadrant": "Languages & Frameworks",
+        "isNew": "TRUE",
+        "description": "SQL-подобный язык, использующийся в работе с СУБД PostgreSQL \/ Postgress Pro"
+    },
+    {
+        "name": "React latest version",
+        "ring": "Assess",
+        "quadrant": "Languages & Frameworks",
+        "isNew": "TRUE",
+        "description": "JavaScript-библиотека с открытым исходным кодом для разработки пользовательских интерфейсов. React разрабатывается и поддерживается Facebook, Instagram и сообществом отдельных разработчиков и корпораций"
+    },
+    {
+        "name": "Spring Boot 3.х",
+        "ring": "Assess",
+        "quadrant": "Languages & Frameworks",
+        "isNew": "TRUE",
+        "description": "Средство с открытым исходным кодом, которое упрощает использование платформ на основе Java для создания микрослужб и веб-приложений."
+    },
+    {
+        "name": "SWIFT latest version",
+        "ring": "Assess",
+        "quadrant": "Languages & Frameworks",
+        "isNew": "TRUE",
+        "description": "Открытый мультипарадигмальный компилируемый язык программирования общего назначения, разработанный и поддерживаемый компанией Apple."
+    },
+    {
+        "name": "TypeScript latest version",
+        "ring": "Assess",
+        "quadrant": "Languages & Frameworks",
+        "isNew": "TRUE",
+        "description": "Cтрого типизированный язык программирования, основанный на JavaScript. Он состоит из трёх частей: синтаксис языка программирования, компилятор, сервис для редактора. Он является эволюцией синтаксиса JavaScript, поэтому любая программа JS синтаксически кор"
+    },
+    {
+        "name": "Vue.js latest version",
+        "ring": "Assess",
+        "quadrant": "Languages & Frameworks",
+        "isNew": "TRUE",
+        "description": "JavaScript-фреймворк для создания пользовательских интерфейсов. Он основан на стандартных HTML, CSS и JavaScript и предоставляет декларативную и компонентную модель программирования, которая помогает эффективно разрабатывать пользовательские интерфейсы, к"
+    },
+    {
+        "name": "Встроенный язык 1С latest version",
+        "ring": "Assess",
+        "quadrant": "Languages & Frameworks",
+        "isNew": "TRUE",
+        "description": "Встроенный язык является важной частью технологической платформы «1С:Предприятия 8», поскольку позволяет разработчику описывать собственные алгоритмы функционирования прикладного решения. Встроенный язык имеет много общих черт с другими языками, такими ка"
+    },
+    {
+        "name": "Astra Linux Special Edition 1.7 Орел",
+        "ring": "Assess",
+        "quadrant": "Platforms",
+        "isNew": "TRUE",
+        "description": "Операционная система персональных компьютеров пользователей. Импортозамещение MS Windows."
+    },
+    {
+        "name": "ASTRA LINUX COMMON EDITION (Орел) 1.7",
+        "ring": "Assess",
+        "quadrant": "Platforms",
+        "isNew": "TRUE",
+        "description": "Операционная система на базе ядра Linux. Включена в Единый реестр российских программ Минкомсвязи России."
+    },
+    {
+        "name": "ASTRA LINUX SPECIAL EDITION (Воронеж) 1.7",
+        "ring": "Assess",
+        "quadrant": "Platforms",
+        "isNew": "TRUE",
+        "description": "Операционная система на базе ядра Linux. Включена в Единый реестр российских программ Минкомсвязи России. Система может без использования наложенных средств защиты применяться для работы с информационными системами обработки персональных данных (ИС ПДН)."
+    },
+    {
+        "name": "ASTRA LINUX SPECIAL EDITION (Смоленск) 1.7",
+        "ring": "Assess",
+        "quadrant": "Platforms",
+        "isNew": "TRUE",
+        "description": "Операционная система на базе ядра Linux. Обеспечивает степень защиты обрабатываемой информации до уровня государственной тайны «особой важности» включительно. Сертифицирована в системах сертификации средств защиты информации Минобороны РФ, ФСТЭК и ФСБ Рос"
+    },
+    {
+        "name": "Apache JMeter 5.6.3",
+        "ring": "Assess",
+        "quadrant": "Techniques",
+        "isNew": "TRUE",
+        "description": "Инструмент для проведения нагрузочного тестирования, в настоящее время способен проводить нагрузочные тесты для JDBC-соединений, FTP, LDAP, SOAP, JMS, POP3, IMAP, HTTP и TCP"
+    },
+    {
+        "name": "Hashicorp Vault latest version",
+        "ring": "Assess",
+        "quadrant": "Techniques",
+        "isNew": "TRUE",
+        "description": "open-source инструмент для управления секретами (пароли, ключи API и т.д.)"
+    },
+    {
+        "name": "Helm Charts latest version",
+        "ring": "Assess",
+        "quadrant": "Techniques",
+        "isNew": "TRUE",
+        "description": "Инструмент автоматизации создания, упаковки, настройки и развертывания приложений и служб в кластерах Kubernetes."
+    },
+    {
+        "name": "JFrog Artifactory latest version",
+        "ring": "Assess",
+        "quadrant": "Techniques",
+        "isNew": "TRUE",
+        "description": "Инструмент, предназначенный для хранения результатов сборки ПО и использования их в процессах распространения и развертывания. Artifactory обеспечивает поддержку ряда форматов пакетов, таких как Maven, Debian, NPM, Helm, Ruby, Python и Docker."
+    },
+    {
+        "name": "SmartBear TestLeft latest version",
+        "ring": "Assess",
+        "quadrant": "Techniques",
+        "isNew": "TRUE",
+        "description": "Инструмент тестирования для dev-тестеров, работающих в Agile командах. Продукт полностью встраивается в среду IDE. DEV-тестеры могут легко и быстро запускать надежные функциональные автоматизированные тесты, не выходя из среды IDE (Visual Studio)."
+    },
+    {
+        "name": "StyleCop.Analyzers 1.1.118",
+        "ring": "Assess",
+        "quadrant": "Techniques",
+        "isNew": "TRUE",
+        "description": "Cтатический анализатор кода на предмет соответствия стилю"
+    }
+]

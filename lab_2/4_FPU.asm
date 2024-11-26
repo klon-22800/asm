@@ -53,5 +53,4 @@ false:
     PRINT_DEC 4, 0
           
 end:       
-    xor 
     ret

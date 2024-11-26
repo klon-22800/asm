@@ -59,5 +59,6 @@ main:
     fld dword[a]
     fsubr st0, st1
     fstp st1
+    fstp st0
             
     ret

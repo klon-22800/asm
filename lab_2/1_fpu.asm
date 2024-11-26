@@ -1,6 +1,6 @@
 %include "io64.inc"
 section .rodata:
-    x: dd 1.1
+    x: dd 1.9
 section .bss
 result: resd 1
 section .text
