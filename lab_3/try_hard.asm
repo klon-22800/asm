@@ -1,6 +1,8 @@
 section .text
     extern access1        
-    global main            
+    global main     
+    
+                  
 main:
     mov rbp, rsp
 
